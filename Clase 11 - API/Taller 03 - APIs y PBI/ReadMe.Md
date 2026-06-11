@@ -1,6 +1,4 @@
-# Taller 03 Consumo de APIs + Power BI
-
-https://github.com/cdsaineac/Bootcamp-DS-202604/blob/master/Clase%2011%20-%20API/Taller%2003%20-%20Apis%20y%20PowerBI.md
+# Taller 03 [Consumo de APIs + Power BI](https://github.com/cdsaineac/Bootcamp-DS-202604/tree/master/Clase%2011%20-%20API/Taller%2003%20-%20APIs%20y%20PBI)
 
 **Fecha de entrega:** *Mayo 31*
 
